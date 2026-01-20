@@ -18,7 +18,7 @@ export default function Timeline({ t, lang, scrollToSFA }) {
       id: 2,
       role: t.role_micro, 
       company: "PT. Bank Rakyat Indonesia (Persero) Tbk", 
-      period: "2023", 
+      period: "Jul 2024 - Aug 2024", 
       icon: <BarChart3 size={20} />,
       achievements_en: ["Mapped and developed the QRIS digital transaction ecosystem.", "Collaborated with the team to analyze digital transaction data."],
       achievements_id: ["Mengembangkan dan memetakan bisnis transaksi digital (QRIS).", "Bekerja sama dengan tim untuk menganalisis data transaksi digital."]
